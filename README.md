@@ -33,7 +33,8 @@ Upon entering the webpage, you are greeted with your date and time as well as a 
 
 ## Screenshot
 
-![Screenshot of my Work Day Scheduler]()
+![Screenshot of my Work Day Scheduler](./assets/images/screenshot1.png)
+![Screenshot of my Work Day Scheduler](./assets/images/screenshot2.png)
 
 ## Deployed Page
 
